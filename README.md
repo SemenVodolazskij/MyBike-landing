@@ -7,7 +7,7 @@ A responsive and visually appealing landing page for MyBike, designed to provide
 - **CSS**
 - **SCSS**
 - **BEM Methodology**
-- **Figma** ([Design source]([url](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=kZGu7wJhrMzrEioN-0)))
+- **Figma** [[Design source](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=kZGu7wJhrMzrEioN-0)]
 
 ## 🌟 Features
 - Fully responsive layout for various screen sizes.
@@ -15,10 +15,10 @@ A responsive and visually appealing landing page for MyBike, designed to provide
 - Modular and reusable code structure using SCSS and BEM.
 
 ## 🚀 Demo
-Check out the live demo here: [[Demo Link]([url](https://semenvodolazskij.github.io/MyBike-landing/))]
+Check out the live demo here: [[Demo Link](https://semenvodolazskij.github.io/MyBike-landing/)]
 
 ## 📂 Code
-Explore the source code on GitHub: [[GitHub Repository]([url](https://github.com/SemenVodolazskij/MyBike-landing))]
+Explore the source code on GitHub: [[GitHub Repository](https://github.com/SemenVodolazskij/MyBike-landing)]
 
 ---
 
